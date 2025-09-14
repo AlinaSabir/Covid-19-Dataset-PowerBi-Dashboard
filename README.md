@@ -1,2 +1,12 @@
 # Covid-19-Dataset-PowerBi-Dashboard
 This repository contains a Power BI Dashboard that presents a comprehensive analysis of global COVID-19 data, offering insights into total cases, deaths, recoveries, active cases, and population impact across countries.
+
+**Dataset: **
+
+The Covid_19 Dataset freely provided by the World in Data. The dataset is
+produced by third parties and made available by World In Data.
+
+**Dashboard Highlights**
+
+It shows Sum of Active Cases by Country. A horizontal bar chart visualizing the number of active cases across countries.
+Deaths vs Total Recovered visualizes the relationship between total deaths and recovered cases, identifying trends and outliers. It also shows distribution of Total Deaths, Total Recovered, and Active Cases as a percentage of total reported cases.
